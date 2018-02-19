@@ -21,8 +21,11 @@ python3 predictTextGenV4.py -n 120 -b 0 # will use the saved check point 120 and
 Example of text generated:
 
 ----------- Epoch 293/307 -----------
+
 bias [-2.374515  -2.0253522 -2.2715485 ... -3.470265  -4.39192   -4.3891644]
+
 Seed:  ..- indicates the size of the typical data collection area of an rsu  km along a road, from
+
 Result:  ..- indicates the size of the typical data collection area of an rsu  km along a road, from packets required model application to to a service hosting environment close to the ues point of attachment to the access network.
 the 5g system shall be able to suspend or stop application instances.
 ., requirements for the reliability in 5g system to support an efficient setting plane scale , and the ring plane are well the terms edge the broadcast of the disturbance current phase. however, there information is processed and automated actions..	triggered, for following fieldbusses in a to be able to react accordingly via other from pdu mno in order to keep the voltage phase.inin a service hosting     to be operators in the specific end or b. however, and cooperation cloud heavily popularity and fraud actions.
