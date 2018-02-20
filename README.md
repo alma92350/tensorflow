@@ -18,6 +18,10 @@ To perform a prediction you need to provide the saved model number and the batch
 
 python3 predictTextGenV4.py -n 120 -b 0 # will use the saved check point 120 and the batch 0 as seed
 
+Note: models are saved in ./textgen 
+
+Note: download predictTextGenV4.py and 22261-g20.txt and the textgen directory to perform the prediction
+
 Example of text generated:
 
 ----------- Epoch 293/307 -----------
